@@ -1,54 +1,58 @@
-## 🚀 Quick Start Guide
+# Mohammad Sufyaan's Portfolio
 
-1. **Clone Repository**
-   ```bash
-   git clone https://github.com/dev-sufyaan/Portfolio-Sufyaan.git
-   cd Portfolio-Sufyaan
-Install Dependencies
-npm install
-Run Locally
-npm start
-(Requires Node.js & npm)
-🎨 Interactive Elements
-Cursor Effects: Follows mouse with dynamic hover states
-Hover Interactions: Smooth transitions across buttons & links
-Scrollbar Customization: Modern, minimalist scrollbars for macOS/Windows
-src/gif/cursor-animation.gif
-Example of interactive cursor effects
-📚 Projects Showcase
-Project NameTech StackLinkGPT-4 Article SummarizerReact, OpenAI, ViteLive DemoText Editor (Python)Tkinter, PandasGitHubYouTube CloneDjango, React, AWS S3Live Demo
-💡 Contributions Welcome!
-Whether it's a feature request, bug fix, or design suggestion – all contributions are appreciated!
-Fork this repo
-Create a feature branch:
-bashCopy
-git checkout -b feature/your-feature
-Submit a pull request with clear documentation
-📬 Contact Me
-Let’s connect!
-🌐 Live Portfolio
-📧 mahirunsufyaan@gmail.com
-🐦 X.com/Sufyaan_Sensei
-💼 LinkedIn
-“The best code is the code you write next.” – Happy Coding! 🎉
-https://buymeacoffee.com/mohdsufyaan
-Copy
+**A glimpse into my world of innovation and creativity**  
+[Visit the live portfolio](https://sufyaan.netlify.app) | [Download CV](https://github.com/dev-sufyaan/Portfolio-Sufyaan/raw/main/src/pdf/Resume.pdf)
 
-### Key Fixes:
-1. Added proper code blocks using triple backticks (````bash`) for commands
-2. Separated sections with blank lines
-3. Added clear headers for each section
-4. Improved table formatting for project showcase
-5. Added email link formatting
-6. Added missing space after colons in headers
-7. Standardized emoji usage
-8. Added missing image alt text
-9. Added missing protocol to GitHub links
-10. Improved code block spacing
+---
 
-The README now renders correctly with:
-- Properly formatted code blocks
-- Clear section separation
-- Responsive table layout
-- Clickable email link
-- Consistent styling throughout
+## Overview
+This is the personal portfolio website of Mohammad Sufyaan, showcasing a collection of projects, skills, and professional journey. Built with a passion for blending AI, Python, and modern web technologies.
+
+## Key Features
+- **Interactive Design**: Smooth animations and responsive layout
+- **Project Showcase**: Highlighting major AI/ML and web development projects
+- **Dynamic Tech Stack**: Visual representation of skills and tools
+- **Contact Integration**: Direct email and social media links
+- **Mobile Optimization**: Perfect for all screen sizes
+
+## Tech Stack
+- **Frontend**: HTML5, CSS3, JavaScript, React.js
+- **Backend**: Python, Django, Flask
+- **AI/ML**: TensorFlow, PyTorch, OpenAI GPT-4
+- **Dev Tools**: Git, Docker, AWS, Linux
+
+## Projects Highlight
+1. **AI Summarizer**  
+   - GPT-4 powered article summarization tool  
+   - Live Demo: [https://project-ai-sum.netlify.app/](https://project-ai-sum.netlify.app/)  
+   - Source Code: [GitHub Repository](https://github.com/dev-sufyaan/AI-Summerizer)  
+
+2. **YouTube Clone**  
+   - Responsive video streaming platform  
+   - Live Demo: [https://project-utube-clone.netlify.app/](https://project-utube-clone.netlify.app/)  
+   - Source Code: [GitHub Repository](https://github.com/dev-sufyaan/Youtube-Clone)  
+
+3. **Python Text Editor**  
+   - Cross-platform text editor using Tkinter  
+   - Source Code: [GitHub Repository](https://github.com/dev-sufyaan/simple-text-editor)  
+
+## How to Use
+1. Clone the repository:  
+   `git clone https://github.com/dev-sufyaan/Portfolio-Sufyaan.git`
+
+2. Install dependencies:  
+   `npm install`
+
+3. Start development server:  
+   `npm start`
+
+## Contact
+- Email: [maihunsufyaan@gmail.com](mailto:maihunsufyaan@gmail.com)  
+- LinkedIn: [Mohammad Sufyaan](https://www.linkedin.com/in/mohd-sufyaan/)  
+- GitHub: [dev-sufyaan](https://github.com/dev-sufyaan)  
+- Twitter/X: [@Sufyaan_Sensei](https://x.com/Sufyaan_Sensei)  
+
+---
+
+**"Greatness is a choice, not a coincidence."**  
+*— Mohammad Sufyaan*
