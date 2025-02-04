@@ -5,10 +5,8 @@
    git clone https://github.com/dev-sufyaan/Portfolio-Sufyaan.git
    cd Portfolio-Sufyaan
 Install Dependencies
-bashCopy
 npm install
 Run Locally
-bashCopy
 npm start
 (Requires Node.js & npm)
 🎨 Interactive Elements
