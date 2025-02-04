@@ -2,7 +2,7 @@
 *“Your code is like your garden – it’s beautiful when you tend to it.”*  
 This is the digital hallway to my world, where creativity meets code.  
 
-![Portfolio Preview](sufyaan.netlify.app)  
+![Portfolio Preview](https://sufyaan.netlify.app)
 *Real-time animations, interactive elements & responsive design*
 
 ---
