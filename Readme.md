@@ -1,7 +1,7 @@
 # Mohammad Sufyaan's Portfolio
 
 **A glimpse into my world of innovation and creativity**  
-[Visit the live portfolio](https://sufyaan.netlify.app) | [Download CV](https://github.com/dev-sufyaan/Portfolio-Sufyaan/raw/main/src/pdf/Resume.pdf)
+[Visit the live portfolio](https://sufyaan.netlify.app) | [Download CV](https://github.com/dev-sufyaan/Portfolio-Sufyaan/blob/main/src/pdf/My%20Resume.pdf)
 
 ---
 
