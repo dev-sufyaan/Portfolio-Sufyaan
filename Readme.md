@@ -22,19 +22,25 @@ This is the personal portfolio website of Mohammad Sufyaan, showcasing a collect
 - **Dev Tools**: Git, Docker, AWS, Linux
 
 ## Projects Highlight
-1. **AI Summarizer**  
+
+1. **AI Article Summarizer**  
    - GPT-4 powered article summarization tool  
    - Live Demo: [https://project-ai-sum.netlify.app/](https://project-ai-sum.netlify.app/)  
    - Source Code: [GitHub Repository](https://github.com/dev-sufyaan/AI-Summerizer)  
 
-2. **YouTube Clone**  
-   - Responsive video streaming platform  
+2. **Personal Finance Manager**  
+   - Desktop application for financial tracking with advanced features  
+   - Live Demo: [https://personal-financemanager.netlify.app/](https://personal-financemanager.netlify.app/)  
+   - Source Code: [GitHub Repository](https://github.com/dev-sufyaan/personal-finance-manager.git)  
+
+3. **URL Shortener Pro**  
+   - GUI application with QR generation and history tracking  
+   - Source Code: [GitHub Repository](https://github.com/dev-sufyaan/URL-Shortener-Pro.git)  
+
+4. **YouTube Clone**  
+   - Responsive video streaming platform replica  
    - Live Demo: [https://project-utube-clone.netlify.app/](https://project-utube-clone.netlify.app/)  
    - Source Code: [GitHub Repository](https://github.com/dev-sufyaan/Youtube-Clone)  
-
-3. **Python Text Editor**  
-   - Cross-platform text editor using Tkinter  
-   - Source Code: [GitHub Repository](https://github.com/dev-sufyaan/simple-text-editor)  
 
 ## How to Use
 1. Clone the repository:  
