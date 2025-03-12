@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Allow: /sitemap.xml
+
+# Disallow access to specific files and directories
+Disallow: /src/mp3/
+Disallow: /.git/
+Disallow: /.vscode/
+Disallow: /Formatted code/
+
+# Sitemap location
+Sitemap: https://www.sufyaan.tech/sitemap.xml 
