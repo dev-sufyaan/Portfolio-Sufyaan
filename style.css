@@ -2009,3 +2009,89 @@ footer {
         gap: 20px
     }
 }
+
+/* Experience Section Styles */
+.experience-section-container {
+    padding: 150px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.experience-section-div {
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.experience-boxes-div {
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    padding: 50px;
+}
+
+.experience-box-wrapper {
+    width: 100%;
+}
+
+.experience-meta {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    color: var(--color-light-blue);
+    font-size: 1.6rem;
+    font-family: fira code;
+}
+
+.experience-date, .experience-location {
+    padding: 5px 15px;
+    border-radius: 20px;
+    background: linear-gradient(to bottom right, var(--tech-stack-box-first-color), var(--tech-stack-box-second-color));
+    border: 1px solid var(--tech-stack-box-border-color);
+}
+
+/* Media Queries for Experience Section */
+@media screen and (max-width: 1200px) {
+    .experience-section-div {
+        width: 80%;
+    }
+}
+
+@media screen and (max-width: 998px) {
+    .project-box .info-div {
+        padding: 30px;
+    }
+    
+    .experience-meta {
+        flex-wrap: wrap;
+        gap: 10px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .experience-section-div {
+        width: 80%;
+    }
+    
+    .experience-boxes-div {
+        padding: 40px 0;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .experience-meta {
+        font-size: 1.4rem;
+    }
+    
+    .experience-date, .experience-location {
+        padding: 4px 12px;
+    }
+}
